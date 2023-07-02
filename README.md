@@ -37,7 +37,7 @@ We also performed feature engineering. This included deriving new date and time 
 
 We then performed RFM analysis of the transaction data. This helped us gain importance metrics to build models for customer segmentation.
 
-Model building included Segmentation Using RFM Scores(Heuristic Model) which gave us 4 major segments.
+Model building included Segmentation Using RFM Scores(Heuristic Model) which gave us 2 major segments.
 
 *As K-means has the high score , it can be as used for the segmentation.
 
